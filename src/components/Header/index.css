@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.header-container {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-style {
+  height: 40px;
+}
+.logo {
+  display: flex;
+}
+.logo-title {
+  margin: 15px;
+  margin-top: 0px;
+}
+.header-list-items {
+  color: black !important;
+  list-style-type: none;
+  margin-left: 15px;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: Bold;
+  margin-right: 5px;
+  text-decoration: none !important;
+}
+.header-unorderd-list {
+  display: flex;
+}

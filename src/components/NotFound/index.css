@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.not-found-title {
+  color: #551e53;
+}
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
